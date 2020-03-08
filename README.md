@@ -1,6 +1,6 @@
 # Solid-Waste-Classification
 
-![](Images/wasteManagement.png)
+![](Images/wasteManagement.jpg)
 
 <b> Introduction and Purpose </b>
 
@@ -13,6 +13,8 @@ I have started segregating recyclables, organics and hazardous materials into ap
 In this project, I have come up with an image classification model which classifies a given image into organic or recyclable item respectively. When I first embarked on this project, I wanted to collect my own data from my own phone and the internet. But I came across an amazing dataset on Kaggle for waste classification consisting of household waste. The dataset is divided into 22564 training images and 2513 test images for two classes each namely, Organic and Recyclable. Here's a sample of a mixture of images from both the classes from the training data.
 
 Dataset: https://www.kaggle.com/techsash/waste-classification-data
+
+![](Images/Sample.png)
 
 
 
