@@ -19,10 +19,11 @@ Dataset: https://www.kaggle.com/techsash/waste-classification-data
 ![](Images/Sample.png)
 
 
-
 <b> The Experiment, Observations and Results </b>
 
-I have experimented using a basic Convolutional Neural Network as well as a Deep Convolutional Neural Network (VGG) to perform this classification task. The networks were built using Keras Neural Network Library. The classification accuracy is about 87.85% for the former network and 87.66% for the latter network. The basic CNN network was trained over 100 epochs and the VGG network was trained over 80 epochs. Both the networks were trained using an NVIDIA GeForce GTX 1070 GPU system and the training times were approximately about 45 minutes for the former and 2.6 hours for the latter networks respectively. 
+I have experimented using a basic Convolutional Neural Network as well as a Deep Convolutional Neural Network (VGG) to perform this classification task. The networks were built using Keras Neural Network Library. You can check out the source code for both the networks in this repository. 
+
+The classification accuracy is about 87.85% for the former network and 87.66% for the latter network. The basic CNN network was trained over 100 epochs and the VGG network was trained over 80 epochs. Both the networks were trained using an NVIDIA GeForce GTX 1070 GPU system and the training times were approximately about 45 minutes for the former and 2.6 hours for the latter networks respectively. 
 
 <b> Future Work </b>
 
