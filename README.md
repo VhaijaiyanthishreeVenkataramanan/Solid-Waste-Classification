@@ -1,6 +1,6 @@
 # Solid-Waste-Classification
 
-![](Images/SampleData_From_TrainingImages.png)
+![](Images/wasteManagement.png)
 
 <b> Introduction and Purpose </b>
 
