@@ -1,4 +1,4 @@
-# Solid-Waste-Classification
+# Solid-Waste-Classifier-using-Keras
 
 ![](Images/wasteManagement.jpg)
 
